@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[Auth]]></title>
+	<author><![CDATA[Cyril Maguire, d'après Mordred]]></author>
+	<version>1.0</version>
+	<date>03/01/2012</date>
+	<site>http://www.ecyseo.net</site>
+	<description><![CDATA[Méthode qui évite de casser le mot de passe par brute force]]></description>
+	<requirements></requirements>
+</document>
